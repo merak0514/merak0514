@@ -4,8 +4,6 @@
 **merak0514/merak0514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Reinforcement Learning and Deep Learning
 - 🎓 I’m a master student in SJTU
 - 📫 How to reach me: panhaoxuan0514@gmail.com or panhaoxuan@sjtu.edu.cn
