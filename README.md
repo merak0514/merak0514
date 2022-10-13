@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 
 ![Merak's GitHub stats](https://github-readme-stats.vercel.app/api?username=merak0514&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merak0514&layout=compact)](https://github.com/merak0514/github-readme-stats)
