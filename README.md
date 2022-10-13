@@ -7,8 +7,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Reinforcement Learning and Deep Learning
-- 🌱 I’m a master student in FINS Lab, SJTU
+- 🎓 I’m a master student in SJTU
 - 📫 How to reach me: panhaoxuan0514@gmail.com or panhaoxuan@sjtu.edu.cn
+- 📫 Leave a comment if you have interesting stories!
 
 
 
