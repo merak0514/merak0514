@@ -9,8 +9,6 @@
 - 📫 How to reach me: panhaoxuan0514@gmail.com or panhaoxuan@sjtu.edu.cn
 - 🛵 Leave a comment if you have interesting stories!
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Asia%2FHong_Kong&mode=WEEK&src=bWVyYWtqYXNvbnBhbkBnbWFpbC5jb20&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ![Merak's GitHub stats](https://github-readme-stats.vercel.app/api?username=merak0514&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merak0514&layout=compact)](https://github.com/merak0514/github-readme-stats)
