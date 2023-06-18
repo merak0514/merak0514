@@ -11,4 +11,4 @@
 
 ![Merak's GitHub stats](https://github-readme-stats-tau-plum-51.vercel.app/api?username=merak0514&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merak0514&layout=compact)](https://github.com/merak0514/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tau-plum-51.vercel.app/api/top-langs/?username=merak0514&layout=compact)](https://github.com/merak0514/github-readme-stats)
