@@ -4,8 +4,8 @@
 **merak0514/merak0514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Reinforcement Learning and Deep Learning
-- 🎓 I’m a master student at SJTU
+- 🔭 I’m currently a deep learning engineer at Pony.ai
+- 🎓 I got my Master's degree from SJTU, working on Reinforcement Learning and Deep Learning
 - 📫 How to reach me: panhaoxuan0514@gmail.com or panhaoxuan@sjtu.edu.cn
 - 🛵 Leave a comment if you have interesting stories!
 
